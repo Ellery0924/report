@@ -1,0 +1,69 @@
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+ul {
+    padding: 0;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+li {
+    list-style: inside disc;
+}
+
+th, td {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.report-content {
+    padding: 0 20px;
+}
+
+.ditem-name {
+    width: 40%;
+}
+
+.ditem-score {
+    width: 20%;
+}
+
+section.detail {
+    margin-top: 2em;
+}
+
+.video-list .video-clip {
+    list-style: none;
+}
+
+video {
+    margin-bottom: 10px;
+}
+
+.video-desc-item {
+    margin-bottom: 0.3em;
+    line-height: 1.3em;
+}
+
+.video-desc-item.selected {
+    color: green;
+}

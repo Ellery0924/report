@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><%= title %></title>
+    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/stylesheets/style.css">
+    <meta name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
+</head>
+<body>
+<div class="report-content">
+    <hgroup>
+        <h1><%= title %></h1>
+        <h5><%= date %></h5>
+    </hgroup>
+    <article>
+        <section class="report">
+            <h2>概要</h2>
+            <section class="abstract">
+                <% report.abstract.forEach(function(aitem){
+                if(typeof aitem === "string"){ %>
+                <p><%= aitem %></p>
+                <% }
+                else if(Array.isArray(aitem)){ %>
+                <ul>
+                    <% aitem.forEach(function (point) { %>
+                    <li><%= point %></li>
+                    <% }) %>
+                </ul>
+                <% }
+                }) %>
+            </section>
+            <section class="detail">
+                <% report.details.forEach(function(ditem, i){ %>
+                <h3><%= i + 1 %>. <%= ditem.name %></h3>
+                <% if(ditem.type === "single"){ %>
+                <table class="table table-condensed table-striped">
+                    <thead>
+                    <tr>
+                        <th class="ditem-name">项目名称</th>
+                        <th class="ditem-score">发现</th>
+                        <th class="ditem-score">发展</th>
+                        <th class="ditem-score">成熟</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <% ditem.list.forEach(function(sitem){ %>
+                    <tr>
+                        <th class="ditem-name"><%= sitem.name %></th>
+                        <td class="ditem-score">
+                            <% if(sitem.score === 1){ %>
+                            <span aria-hidden="true" class="glyphicon glyphicon-ok"></span>
+                            <% } %>
+                        </td>
+                        <td class="ditem-score">
+                            <% if(sitem.score === 2){ %>
+                            <span aria-hidden="true" class="glyphicon glyphicon-ok"></span>
+                            <% } %>
+                        </td>
+                        <td class="ditem-score">
+                            <% if(sitem.score === 3){ %>
+                            <span aria-hidden="true" class="glyphicon glyphicon-ok"></span>
+                            <% } %>
+                        </td>
+                    </tr>
+                    <% }) %>
+                    </tbody>
+                </table>
+                <% } else if(ditem.type === "stamina"){ %>
+                <table class="table table-condensed table-striped">
+                    <thead>
+                    <tr>
+                        <th class="ditem-name ditem-stamina">项目名称</th>
+                        <th class="ditem-score ditem-stamina">表现</th>
+                        <th>与美国同龄比较</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <% ditem.list.forEach(function(sitem){ %>
+                    <tr>
+                        <td><%= sitem.name %></td>
+                        <td><%= sitem.score %></td>
+                        <td><%= sitem.contrast %></td>
+                    </tr>
+                    <% }) %>
+                    </tbody>
+                </table>
+                <% } %>
+                <% }) %>
+            </section>
+        </section>
+        <section class="video">
+            <h2>视频档案</h2>
+            <% videos.forEach(function (vitem, i) { %>
+            <section class="video-clip">
+                <h3><%= i + 1 %>. <%= vitem.title %></h3>
+                <video controls width="100%" src="<%= vitem.url %>"></video>
+                <% vitem.comment.forEach(function(citem){ %>
+                <section class="comment-clip">
+                    <h4><%= citem.name %></h4>
+                    <ul class="video-desc">
+                        <% citem.list.forEach(function(litem, i){ %>
+                        <li class="video-desc-item <% if(citem.selected === i + 1){ %>selected<% } %>">
+                            <%= litem %>
+                        </li>
+                        <% }) %>
+                    </ul>
+                </section>
+                <% }) %>
+            </section>
+            <% }) %>
+        </section>
+    </article>
+</div>
+</body>
+</html>
