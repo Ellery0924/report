@@ -4,7 +4,7 @@
   "report": {
     "name": "小牛",
     "abstract": [
-      "在动作能力方面,暮暮与美国同龄儿童(7岁)水平基本持平。发展较成熟的方面是:",
+      "在动作能力方面,小牛与美国同龄儿童(6周岁)水平基本持平。发展较成熟的方面是:",
       [
         "击打动作",
         "扔、接动作"
@@ -130,7 +130,7 @@
   "videos": [
     {
       "title": "单腿跳",
-      "url": "http://static.video.qq.com/TPout.swf?vid=r0315xgp69d&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=r0315xgp69d&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -188,7 +188,7 @@
     },
     {
       "title": "侧滑步",
-      "url": "http://static.video.qq.com/TPout.swf?vid=x0315brxabu&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=x0315brxabu&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -248,7 +248,7 @@
     },
     {
       "title": "跳走",
-      "url": "http://static.video.qq.com/TPout.swf?vid=c0315e6sprk&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=c0315e6sprk&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -312,7 +312,7 @@
     },
     {
       "title": "跑步",
-      "url": "http://static.video.qq.com/TPout.swf?vid=z0315aqs9dx&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=z0315aqs9dx&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -385,7 +385,7 @@
     },
     {
       "title": "纵跳",
-      "url": "http://static.video.qq.com/TPout.swf?vid=f031538jz3f&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=f031538jz3f&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -454,7 +454,7 @@
     },
     {
       "title": "闪躲",
-      "url": "http://static.video.qq.com/TPout.swf?vid=j031534jcbj&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=j031534jcbj&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -519,7 +519,7 @@
     },
     {
       "title": "上手扔球",
-      "url": "http://static.video.qq.com/TPout.swf?vid=j0315iilyek&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=j0315iilyek&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -584,8 +584,8 @@
     },
     {
       "title": "接球",
-      "url": "http://static.video.qq.com/TPout.swf?vid=f03150sjxb7&auto=0",
-      "url": "http://static.video.qq.com/TPout.swf?vid=s03152wvb2j&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=f03150sjxb7&tiny=0&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=s03152wvb2j&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -653,7 +653,7 @@
       ]
     },
     {
-      "title": "踢球",
+      "title": "踢",
       "url": "",
       "comment": [
         {
@@ -727,7 +727,7 @@
     },
     {
       "title": "双手击打",
-      "url": "http://static.video.qq.com/TPout.swf?vid=u0315ducdqh&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=u0315ducdqh&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -831,7 +831,7 @@
               "selected": false
             },
             {
-              "text": "眼睛看球"
+              "text": "眼睛看球",
               "selected": false
             }
           ]
@@ -857,7 +857,7 @@
     },
     {
       "title": "双脚落地",
-      "url": "",
+      "url": "http://v.qq.com/iframe/player.html?vid=i0315ppcsij&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -1043,65 +1043,8 @@
       ]
     },
     {
-      "title": "静态平衡",
-      "url": "",
-      "comment": [
-        {
-          "name": "发现期",
-          "list": [
-            {
-              "text": "经常失去平衡",
-              "selected": false
-            },
-            {
-              "text": "补偿动作较大，如手臂挥舞",
-              "selected": false
-            },
-            {
-              "text": "容易低头",
-              "selected": false
-            }
-          ]
-        },
-        {
-          "name": "发展期",
-          "list": [
-            {
-              "text": "学会用手臂及其他身体部位辅助平衡",
-              "selected": false
-            },
-            {
-              "text": "眼睛更多注视前方,更加稳定",
-              "selected": false
-            },
-            {
-              "text": "较少的失去平衡",
-              "selected": false
-            }
-          ]
-        },
-        {
-          "name": "成熟期",
-          "list": [
-            {
-              "text": "眼睛注视前方,动作非常稳定",
-              "selected": false
-            },
-            {
-              "text": "运用肢体维持平衡",
-              "selected": false
-            },
-            {
-              "text": "闭上眼睛也可保持静态平衡",
-              "selected": false
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title": "水平引体向上",
-      "url": "http://static.video.qq.com/TPout.swf?vid=u03159cmee4&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=u03159cmee4&tiny=0&auto=0",
       "comment": "0"
     },
     {
