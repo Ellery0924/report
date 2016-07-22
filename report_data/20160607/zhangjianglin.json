@@ -71,7 +71,8 @@
             "score": ""
           }
         ]
-      },{
+      },
+      {
         "type": "single",
         "name": "稳定能力",
         "list": [
@@ -284,7 +285,7 @@
             },
             {
               "text": "出现摆臂不协调的情况，顺拐",
-              "selected":true
+              "selected": true
             }
           ]
         },
@@ -292,7 +293,7 @@
           "name": "成熟期",
           "list": [
             {
-              "text": "迈步与跳步的动作模式清楚",
+              "text": "迈步与跳步的动作模式清楚"
             },
             {
               "text": "节奏均匀连贯",
@@ -356,7 +357,7 @@
             },
             {
               "text": "腿部会更用力的蹬地，但膝盖仍较小抬起",
-              "selected":true
+              "selected": true
             },
             {
               "text": "过分低头或仰头",
@@ -425,7 +426,7 @@
             },
             {
               "text": "落地时脚踝、膝盖和髋关节提供缓冲，但动作不稳",
-              "selected":true
+              "selected": true
             }
           ]
         },
@@ -445,7 +446,7 @@
               "selected": false
             },
             {
-              "text": "落地稳定，脚踝、膝盖、髋部提供缓冲"
+              "text": "落地稳定，脚踝、膝盖、髋部提供缓冲",
               "selected": false
             }
           ]
@@ -584,7 +585,6 @@
     },
     {
       "title": "接球",
-      "url": "http://static.video.qq.com/TPout.swf?vid=f03150sjxb7&auto=0",
       "url": "http://static.video.qq.com/TPout.swf?vid=s03152wvb2j&auto=0",
       "comment": [
         {
@@ -603,7 +603,7 @@
               "selected": false
             },
             {
-              "text":"会用手臂或其他部位接球，如胸、脸",
+              "text": "会用手臂或其他部位接球，如胸、脸",
               "selected": true
             }
           ]
@@ -672,11 +672,11 @@
               "selected": false
             },
             {
-              "text":"腿触球后的跟随动作小",
+              "text": "腿触球后的跟随动作小",
               "selected": false
             },
             {
-              "text":"用脚趾间踢球",
+              "text": "用脚趾间踢球",
               "selected": false
             }
           ]
@@ -745,7 +745,7 @@
               "selected": false
             },
             {
-              "text":"极少的后摆和随挥",
+              "text": "极少的后摆和随挥",
               "selected": true
             }
           ]
@@ -810,7 +810,7 @@
               "selected": false
             },
             {
-              "text":"会有“弹-接”动作",
+              "text": "会有“弹-接”动作",
               "selected": false
             }
           ]
@@ -831,7 +831,7 @@
               "selected": false
             },
             {
-              "text": "眼睛看球"
+              "text": "眼睛看球",
               "selected": false
             }
           ]
@@ -875,7 +875,7 @@
               "selected": false
             },
             {
-              "text":"落地声音沉重",
+              "text": "落地声音沉重",
               "selected": false
             }
           ]
@@ -1102,17 +1102,17 @@
     {
       "title": "水平引体向上",
       "url": "http://static.video.qq.com/TPout.swf?vid=u03159cmee4&auto=0",
-      "comment": "0"
+      "comment": []
     },
     {
       "title": "俯卧撑",
       "url": "",
-      "comment": "0"
+      "comment": []
     },
     {
-      "title:" : "30英尺折返跑",
+      "title": "30英尺折返跑",
       "url": "",
-      "comment": "未测试"
+      "comment": []
     }
   ]
 }
