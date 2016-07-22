@@ -12,7 +12,7 @@
       "需要提高的方面是:",
       [
         "移动能力",
-        "身体力量"
+        "力量"
       ]
     ],
     "details": [
@@ -199,7 +199,7 @@
             },
             {
               "text": "身体僵硬，双脚无法同时离地",
-              "selected": true
+              "selected": false
             },
             {
               "text": "膝盖僵硬，落地时缓冲少",
@@ -224,7 +224,7 @@
             },
             {
               "text": "躯干转向前进方向",
-              "selected": false
+              "selected": true
             }
           ]
         },
@@ -267,7 +267,7 @@
             },
             {
               "text": "全脚掌着地",
-              "selected": false
+              "selected": true
             }
           ]
         },
