@@ -292,7 +292,7 @@
           "name": "成熟期",
           "list": [
             {
-              "text": "迈步与跳步的动作模式清楚",
+              "text": "迈步与跳步的动作模式清楚"
             },
             {
               "text": "节奏均匀连贯",
@@ -445,7 +445,7 @@
               "selected": false
             },
             {
-              "text": "落地稳定，脚踝、膝盖、髋部提供缓冲"
+              "text": "落地稳定，脚踝、膝盖、髋部提供缓冲",
               "selected": false
             }
           ]
@@ -1045,17 +1045,17 @@
     {
       "title": "水平引体向上",
       "url": "http://v.qq.com/iframe/player.html?vid=u03159cmee4&tiny=0&auto=0",
-      "comment": "0"
+      "comment": []
     },
     {
       "title": "俯卧撑",
       "url": "",
-      "comment": "0"
+      "comment": []
     },
     {
       "title:" : "30英尺折返跑",
       "url": "",
-      "comment": "未测试"
+      "comment": []
     }
   ]
 }
