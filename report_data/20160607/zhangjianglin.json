@@ -119,7 +119,7 @@
             "contrast": ""
           },
           {
-            "name:": "躯干伸展",
+            "name": "躯干伸展",
             "score": "未测试",
             "contrast": ""
           }
@@ -1053,7 +1053,7 @@
       "comment": []
     },
     {
-      "title:" : "30英尺折返跑",
+      "title" : "30英尺折返跑",
       "url": "",
       "comment": []
     }
