@@ -100,8 +100,8 @@
                     <h4><%= citem.name %></h4>
                     <ul class="video-desc">
                         <% citem.list.forEach(function(litem, i){ %>
-                        <li class="video-desc-item <% if(citem.selected === i + 1){ %>selected<% } %>">
-                            <%= litem %>
+                        <li class="video-desc-item <% if(litem.selected){ %>selected<% } %>">
+                            <%= litem.text %>
                         </li>
                         <% }) %>
                     </ul>
