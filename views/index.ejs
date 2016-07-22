@@ -94,7 +94,7 @@
             <% videos.forEach(function (vitem, i) { %>
             <section class="video-clip">
                 <h3><%= i + 1 %>. <%= vitem.title %></h3>
-                <video controls width="100%" src="<%= vitem.url %>"></video>
+                <iframe frameborder="0" src="<%=vitem.url%>" allowfullscreen></iframe>
                 <% vitem.comment.forEach(function(citem){ %>
                 <section class="comment-clip">
                     <h4><%= citem.name %></h4>
