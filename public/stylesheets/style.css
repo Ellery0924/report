@@ -67,3 +67,8 @@ video {
 .video-desc-item.selected {
     color: green;
 }
+
+.post-script {
+    font-size: 12px;
+    color: #666;
+}

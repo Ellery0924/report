@@ -71,7 +71,8 @@
             "score": ""
           }
         ]
-      },{
+      },
+      {
         "type": "single",
         "name": "稳定能力",
         "list": [
@@ -131,6 +132,7 @@
     {
       "title": "单腿跳",
       "url": "http://v.qq.com/iframe/player.html?vid=r0315xgp69d&tiny=0&auto=0",
+      "link": "http://mp.weixin.qq.com/s?__biz=MzI3MjE3NDQ5Mw==&tempkey=DI8xrnp2o9cXUG1A58Q1tLj84yJiG6SB3UUsY5MiVKf4lbeMO1%2FLKQWi4lQVEQBU2PLA7zbgJe4giqL0DovEX4YEh%2FuOvwqUy9jAf7qnvd5LN%2BmWYxgYs1215FcB6SQSShsTM2mQ1%2ByCj%2Bf9yrjmNQ%3D%3D&#rd",
       "comment": [
         {
           "name": "发现期",
@@ -284,7 +286,7 @@
             },
             {
               "text": "出现摆臂不协调的情况，顺拐",
-              "selected":true
+              "selected": true
             }
           ]
         },
@@ -356,7 +358,7 @@
             },
             {
               "text": "腿部会更用力的蹬地，但膝盖仍较小抬起",
-              "selected":true
+              "selected": true
             },
             {
               "text": "过分低头或仰头",
@@ -425,7 +427,7 @@
             },
             {
               "text": "落地时脚踝、膝盖和髋关节提供缓冲，但动作不稳",
-              "selected":true
+              "selected": true
             }
           ]
         },
@@ -602,7 +604,7 @@
               "selected": false
             },
             {
-              "text":"会用手臂或其他部位接球，如胸、脸",
+              "text": "会用手臂或其他部位接球，如胸、脸",
               "selected": true
             }
           ]
@@ -671,11 +673,11 @@
               "selected": false
             },
             {
-              "text":"腿触球后的跟随动作小",
+              "text": "腿触球后的跟随动作小",
               "selected": false
             },
             {
-              "text":"用脚趾间踢球",
+              "text": "用脚趾间踢球",
               "selected": false
             }
           ]
@@ -744,7 +746,7 @@
               "selected": false
             },
             {
-              "text":"极少的后摆和随挥",
+              "text": "极少的后摆和随挥",
               "selected": true
             }
           ]
@@ -809,7 +811,7 @@
               "selected": false
             },
             {
-              "text":"会有“弹-接”动作",
+              "text": "会有“弹-接”动作",
               "selected": false
             }
           ]
@@ -874,7 +876,7 @@
               "selected": false
             },
             {
-              "text":"落地声音沉重",
+              "text": "落地声音沉重",
               "selected": false
             }
           ]
@@ -1052,7 +1054,7 @@
       "comment": []
     },
     {
-      "title" : "30英尺折返跑",
+      "title": "30英尺折返跑",
       "url": "",
       "comment": []
     }

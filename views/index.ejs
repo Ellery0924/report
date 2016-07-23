@@ -94,7 +94,15 @@
             <h2>视频档案</h2>
             <% videos.forEach(function (vitem, i) { %>
             <section class="video-clip">
-                <h3><%= i + 1 %>. <%= vitem.title %></h3>
+                <h3>
+                    <% if(vitem.link){ %>
+                    <%= i + 1 %>.
+                    <a href="<%= vitem.link %>"><%= vitem.title %></a>
+                    <span class="post-script">(点击标题查看动作详解)</span>
+                    <% } else { %>
+                    <%= i + 1 %>. <%= vitem.title %>
+                    <% } %>
+                </h3>
                 <iframe class="video-player" frameborder="0" src="<%= vitem.url %>" allowfullscreen></iframe>
                 <% vitem.comment.forEach(function(citem){ %>
                 <section class="comment-clip">
