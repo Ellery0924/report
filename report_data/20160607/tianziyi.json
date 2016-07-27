@@ -1,0 +1,1056 @@
+{
+  "title": "田子怡的基础运动能力测试档案",
+  "date": "2016/07/09",
+  "report": {
+    "name": "田田",
+    "abstract": [
+      "田田可以完成大部分基础动作,具备非常良好的运动能力基础,今后应该全面发展,逐步提高动作效率。",
+
+      "身体素质方面,上肢力量和速度需要加强。"
+    ],
+    "details": [
+      {
+        "type": "single",
+        "name": "移动能力测试",
+        "list": [
+          {
+            "name": "单腿跳",
+            "score": 1
+          },
+          {
+            "name": "跳走",
+            "score": 1
+          },
+          {
+            "name": "侧滑步",
+            "score": 1
+          },
+          {
+            "name": "跑",
+            "score": 1
+          },
+          {
+            "name": "闪躲",
+            "score": 1
+          },
+          {
+            "name": "双脚跳",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "type": "single",
+        "name": "物体控制能力",
+        "list": [
+          {
+            "name": "上手扔",
+            "score": 1
+          },
+          {
+            "name": "接",
+            "score": 1
+          },
+          {
+            "name": "击打",
+            "score": 1
+          },
+          {
+            "name": "踢",
+            "score": 1
+          },
+          {
+            "name": "手运球",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "type": "single",
+        "name": "稳定能力",
+        "list": [
+          {
+            "name": "双脚落地",
+            "score": 1
+          },
+          {
+            "name": "静态平衡",
+            "score": 1
+          },
+          {
+            "name": "翻滚",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "type": "stamina",
+        "name": "体能测试",
+        "list": [
+          {
+            "name": "90度俯卧撑",
+            "score": 0,
+            "contrast": 3
+          },
+          {
+            "name": "水平引体向上",
+            "score": 0,
+            "contrast": 2
+          },
+          {
+            "name": "30英尺折返跑",
+            "score": "",
+            "contrast": "无要求"
+          },
+          {
+            "name": "BMI指数",
+            "score": "未测试",
+            "contrast": "无"
+          },
+          {
+            "name": "坐位体前屈",
+            "score": "未测试",
+            "contrast": ""
+          },
+          {
+            "name": "躯干伸展",
+            "score": "未测试",
+            "contrast": ""
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "title": "单腿跳",
+      "url": "http://v.qq.com/iframe/player.html?vid=o0316u15stf&tiny=0&auto=0",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "容易失去平衡,节奏,方向都不稳定",
+              "selected": true
+            },
+            {
+              "text": "非支撑腿无法提供帮助，只是被动地提在身体前面",
+              "selected": true
+            },
+            {
+              "text": "手臂挥舞，帮助平衡",
+              "selected": true
+            },
+            {
+              "text": "全脚掌着地",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "维持平衡，开始产生节奏",
+              "selected": false
+            },
+            {
+              "text": "非支撑腿开始移向身体后方，并有节奏地前后摆动"
+            },
+            {
+              "text": "手臂出现前后摆动"
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "重心稳定、节奏连贯、腾跃明显"
+            },
+            {
+              "text": "非支撑腿前后协调摆动助力"
+            },
+            {
+              "text": "双手前后摆动助力"
+            },
+            {
+              "text": "前脚掌着地"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "侧滑步",
+      "url": "http://v.qq.com/iframe/player.html?vid=w0316ckkkwt&tiny=0&auto=0",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "双脚出现交叉",
+              "selected": true
+
+            },
+            {
+              "text": "身体僵硬，双脚无法同时离地",
+              "selected": false
+            },
+            {
+              "text": "膝盖僵硬，落地时缓冲少",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "双脚不再交叉,可以短暂腾空",
+              "selected": false
+            },
+            {
+              "text": "落地有不明显的缓冲",
+              "selected": false
+            },
+            {
+              "text": "手臂摆少,节奏不连贯",
+              "selected": false
+            },
+            {
+              "text": "躯干转向前进方向",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "节奏连贯、均匀，腾空明显"
+            },
+            {
+              "text": "动作放松，落地时脚掌、膝盖缓冲明显",
+              "selected": false
+            },
+            {
+              "text": "手臂有节奏地轻松摆动",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "跳走",
+      "url": "http://v.qq.com/iframe/player.html?vid=w0316i60idf&tiny=0&auto=0",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "无法完成迈一步跳一步的动作模式，连续迈步或跳步",
+              "selected": true
+            },
+            {
+              "text": "手臂无法与异侧腿一同摆动",
+              "selected": true
+            },
+            {
+              "text": "没有节奏",
+              "selected": true
+            },
+            {
+              "text": "全脚掌着地",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "能够完成迈一步挑一步的动作模式",
+              "selected": false
+            },
+            {
+              "text": "出现节奏,但不连贯",
+              "selected": false
+            },
+            {
+              "text": "出现摆臂不协调的情况，顺拐",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "迈步与跳步的动作模式清楚"
+            },
+            {
+              "text": "节奏均匀连贯",
+              "selected": false
+            },
+            {
+              "text": "手臂与异侧腿同步摆动",
+              "selected": false
+            },
+            {
+              "text": "跳步时前脚掌着地",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "跑步",
+      "url": "http://v.qq.com/iframe/player.html?vid=y0316ykb995&tiny=0&auto=0",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "步幅非常不均匀",
+              "selected": false
+            },
+            {
+              "text": "腿部比较僵硬，较多左右方向摆动",
+              "selected": false
+            },
+            {
+              "text": "手臂远离身体，随机挥舞",
+              "selected": false
+            },
+            {
+              "text": "几乎无腾空",
+              "selected": true
+            },
+            {
+              "text": "全脚掌着地",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "步幅更加均匀",
+              "selected": true
+            },
+            {
+              "text": "腾空更明显",
+              "selected": false
+            },
+            {
+              "text": "肘部不够弯曲，可能较多横向摆动并超过身体中线",
+              "selected": false
+            },
+            {
+              "text": "腿部会更用力的蹬地，但膝盖仍较小抬起",
+              "selected": false
+            },
+            {
+              "text": "过分低头或仰头",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "步幅长度适当，节奏非常均匀，腾空明显",
+              "selected": false
+            },
+            {
+              "text": "迈步时膝盖弯曲明显，蹬地后支撑腿充分伸展",
+              "selected": false
+            },
+            {
+              "text": "手肘弯曲，双臂前后摆动，动作有力",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "纵跳",
+      "url": "http://v.qq.com/iframe/player.html?vid=d0316xni2ig&tiny=0&auto=0",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "极少的屈膝",
+              "selected": true
+            },
+            {
+              "text": "没有躯干、腿部、脚踝的伸展，经常在空中屈膝",
+              "selected": true
+            },
+            {
+              "text": "手臂无后摆-上扬的动作，没有为起跳提供力量",
+              "selected": true
+            },
+            {
+              "text": "落地时全脚掌或脚跟着地，踝、膝、髋僵硬无缓冲",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "更流畅的下蹲动作，有时身体会过分前倾",
+              "selected": false
+            },
+            {
+              "text": "起跳时可观察到脚踝、膝盖和髋关节的伸展",
+              "selected": false
+            },
+            {
+              "text": "手臂摆动提供动力，后摆和上扬都不充分，力量不足",
+              "selected": false
+            },
+            {
+              "text": "落地时脚踝、膝盖和髋关节提供缓冲，但动作不稳",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "流畅的下蹲起跳动作",
+              "selected": false
+            },
+            {
+              "text": "脚踝、膝盖、髋部充分的伸展",
+              "selected": false
+            },
+            {
+              "text": "手臂充分摆动提供动力",
+              "selected": false
+            },
+            {
+              "text": "落地稳定，脚踝、膝盖、髋部提供缓冲",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "闪躲",
+      "url": "http://v.qq.com/iframe/player.html?vid=z0316fq2pb9&tiny=0&auto=0",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "膝盖弯曲少，重心会在一条腿上",
+              "selected": true
+            },
+            {
+              "text": "双脚经常交叉",
+              "selected": true
+            },
+            {
+              "text": "动作僵硬不连贯",
+              "selected": true
+            },
+            {
+              "text": "没有假动作",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "不会总是站直，但双脚还是会交叉",
+              "selected": false
+            },
+            {
+              "text": "动作更流畅,会有一些假动作",
+              "selected": false
+            },
+            {
+              "text": "总会向一个方向躲",
+              "selected": true
+            },
+            {
+              "text": "出现一些急停急起",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "屈膝，上身前倾",
+              "selected": false
+            },
+            {
+              "text": "向各个方向的运动都流畅、迅速、协调力",
+              "selected": false
+            },
+            {
+              "text": "会用头、肩膀等部位做假动作",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "上手扔球",
+      "url": "http://v.qq.com/iframe/player.html?vid=d0316dtie0c&tiny=0&auto=0",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "身体面向目标",
+              "selected": true
+            },
+            {
+              "text": "用脊柱和手臂的屈伸产生力量",
+              "selected": true
+            },
+            {
+              "text": "没有躯干的旋转、没有重心的转移",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "身体趋向于侧对目标",
+              "selected": false
+            },
+            {
+              "text": "身体转向目标方向",
+              "selected": false
+            },
+            {
+              "text": "重心从后侧脚移向前侧脚",
+              "selected": false
+            },
+            {
+              "text": "会迈出扔球手的同侧脚",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "流畅的身体转动和重心转移",
+              "selected": false
+            },
+            {
+              "text": "明显的后摆和随挥",
+              "selected": false
+            },
+            {
+              "text": "扔球手的对侧脚迈出",
+              "selected": false
+            },
+            {
+              "text": "非扔球手帮助控制平衡和方向",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "接球",
+      "url": "http://v.qq.com/iframe/player.html?vid=g03169fh4xb&tiny=0&auto=0",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "准备时手臂向前伸直",
+              "selected": false
+            },
+            {
+              "text": "手掌向上，拇指向外，接的动作像个勺子",
+              "selected": true
+            },
+            {
+              "text": "身体很被动，有时会闪躲",
+              "selected": true
+            },
+            {
+              "text": "会用手臂或其他部位接球，如胸、脸",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "有时用手掌和手臂夹住球，像个鳄鱼嘴，手掌相对拇指向上",
+              "selected": false
+            },
+            {
+              "text": "手臂变得放松，会根据球的位置调整高度",
+              "selected": false
+            },
+            {
+              "text": "身体更主动，躲避减少",
+              "selected": false
+            },
+            {
+              "text": "仍然会有闭眼或接不住的情况",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "手臂放松，腰以上的球手掌向外拇指相对,腰以下的球手掌向上拇指向外",
+              "selected": false
+            },
+            {
+              "text": "身体非常主动，会迎着球飞来的方向移动和调整",
+              "selected": false
+            },
+            {
+              "text": "眼睛盯住球，接触后身体会有缓冲动作",
+              "selected": false
+            },
+            {
+              "text": "单手接球时两只手都能接球",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "踢",
+      "url": "",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "基本没有助跑，且助跑方向与球的目标方向成直线",
+              "selected": false
+            },
+            {
+              "text": "支撑脚落在球的后方",
+              "selected": false
+            },
+            {
+              "text": "较少甚至没有后摆，后摆腿僵硬",
+              "selected": false
+            },
+            {
+              "text": "腿触球后的跟随动作小",
+              "selected": false
+            },
+            {
+              "text": "用脚趾间踢球",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "出现助跑",
+              "selected": false
+            },
+            {
+              "text": "出现明显的后摆和跟随动作",
+              "selected": false
+            },
+            {
+              "text": "摆动腿开始弯曲",
+              "selected": false
+            },
+            {
+              "text": "使用脚背或脚内侧触球",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "助跑或跳向球，且从目标方向的侧面开始助跑，支撑脚落在球的侧面",
+              "selected": false
+            },
+            {
+              "text": "大幅度的后摆，腿弯曲，髋部发力",
+              "selected": false
+            },
+            {
+              "text": "触球前躯干轻微的后倾",
+              "selected": false
+            },
+            {
+              "text": "触球后朝向目标方向的明显跟随摆动",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "双手击打",
+      "url": "http://v.qq.com/iframe/player.html?vid=e0316h6r5xx&tiny=0&auto=0",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "极少的重心转移和骨盆旋转",
+              "selected": true
+            },
+            {
+              "text": "准备时身体可能正对目标",
+              "selected": true
+            },
+            {
+              "text": "力量产生于关节的由屈到伸，而不是身体的旋转",
+              "selected": true
+            },
+            {
+              "text": "极少的后摆和随挥",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "准备时身体侧对目标",
+              "selected": false
+            },
+            {
+              "text": "较少骨盆的旋转",
+              "selected": false
+            },
+            {
+              "text": "较少重心的转移",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "协调的握棒姿势（主导手在上，双手紧靠）",
+              "selected": false
+            },
+            {
+              "text": "球棒准备时抬起",
+              "selected": false
+            },
+            {
+              "text": "明显的骨盆旋转和重心转移",
+              "selected": false
+            },
+            {
+              "text": "完整的后摆、击球、随挥动作",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "手运球",
+      "url": "",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "双手在球的两侧抱球，手掌相对",
+              "selected": false
+            },
+            {
+              "text": "双手拍球，手指僵硬，双手下按",
+              "selected": false
+            },
+            {
+              "text": "不能控制球，球反弹高度不可控",
+              "selected": false
+            },
+            {
+              "text": "会有“弹-接”动作",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "一手在上、一手在下的方式抱球，上面手掌向下按球",
+              "selected": false
+            },
+            {
+              "text": "求弹起后拍球",
+              "selected": false
+            },
+            {
+              "text": "球的反弹和拍球不稳定",
+              "selected": false
+            },
+            {
+              "text": "眼睛看球",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "在腰的高度抱球",
+              "selected": false
+            },
+            {
+              "text": "向下按球，手臂手腕和手指都可观察到跟随动作",
+              "selected": false
+            },
+            {
+              "text": "手指放松，可控球",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "双脚落地",
+      "url": "http://v.qq.com/iframe/player.html?vid=o0316w7ks5o&tiny=0&auto=0",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "支撑点不稳定",
+              "selected": true
+            },
+            {
+              "text": "全脚掌落地",
+              "selected": false
+            },
+            {
+              "text": "没有缓冲",
+              "selected": true
+            },
+            {
+              "text": "落地声音沉重",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "支撑更稳定",
+              "selected": false
+            },
+            {
+              "text": "前脚掌先落地",
+              "selected": true
+            },
+            {
+              "text": "脚掌落地后膝盖、髋部弯曲缓冲",
+              "selected": false
+            },
+            {
+              "text": "身体前冲或前滚不受控制",
+              "selected": true
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "落地可控、安全",
+              "selected": false
+            },
+            {
+              "text": "支撑点宽阔稳定",
+              "selected": false
+            },
+            {
+              "text": "通过脚踝、膝盖和髋关节的弯曲吸收冲击力",
+              "selected": false
+            },
+            {
+              "text": "落地声音轻",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "静态平衡",
+      "url": "",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "经常失去平衡",
+              "selected": false
+            },
+            {
+              "text": "补偿动作较大，如手臂挥舞",
+              "selected": false
+            },
+            {
+              "text": "容易低头",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "学会用手臂及其他身体部位辅助平衡",
+              "selected": false
+            },
+            {
+              "text": "眼睛更多注视前方,更加稳定",
+              "selected": false
+            },
+            {
+              "text": "较少的失去平衡",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "眼睛注视前方,动作非常稳定",
+              "selected": false
+            },
+            {
+              "text": "运用肢体维持平衡",
+              "selected": false
+            },
+            {
+              "text": "闭上眼睛也可保持静态平衡",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "翻滚",
+      "url": "",
+      "comment": [
+        {
+          "name": "发现期",
+          "list": [
+            {
+              "text": "身体无法卷曲，或在滚动时打开",
+              "selected": false
+            },
+            {
+              "text": "无法使用手臂，或手臂不协调",
+              "selected": false
+            },
+            {
+              "text": "无法完成一周翻滚",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "发展期",
+          "list": [
+            {
+              "text": "身体能卷曲紧实",
+              "selected": false
+            },
+            {
+              "text": "完成翻滚时身体会打开",
+              "selected": false
+            },
+            {
+              "text": "更多的手臂和手的协同",
+              "selected": false
+            },
+            {
+              "text": "只能做一次翻滚",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "name": "成熟期",
+          "list": [
+            {
+              "text": "翻滚全过程身体保持卷曲",
+              "selected": false
+            },
+            {
+              "text": "手臂辅助推、平衡",
+              "selected": false
+            },
+            {
+              "text": "可以做连续可控的翻滚",
+              "selected": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "水平引体向上",
+      "url": "http://v.qq.com/iframe/player.html?vid=a0315dde5pd&tiny=0&auto=0",
+      "comment": []
+    },
+    {
+      "title": "俯卧撑",
+      "url": "",
+      "comment": []
+    },
+    {
+      "title": "30英尺折返跑",
+      "url": "",
+      "comment": []
+    }
+  ]
+}
