@@ -733,10 +733,10 @@
             },
             {
               "text": "准备时身体可能正对目标",
-              "selected": true
+              "selected": false
             },
             {
-              "text": "力量产生于关节的由屈到伸，而不是身体的旋转",
+              "text": "不会举起球棒发力,力量产生于关节的由屈到伸，而不是身体的旋转",
               "selected": true
             },
             {
@@ -750,7 +750,7 @@
           "list": [
             {
               "text": "准备时身体侧对目标",
-              "selected": false
+              "selected": true
             },
             {
               "text": "较少骨盆的旋转",
