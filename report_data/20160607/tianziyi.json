@@ -6,7 +6,7 @@
     "abstract": [
       "田田可以完成大部分基础动作,具备非常良好的运动能力基础,今后应该全面发展,逐步提高动作效率。",
 
-      "身体素质方面,上肢力量和速度需要加强。"
+      "身体素质方面,上肢力量需要加强,另有柔韧性、身体成分等尚未测试。"
     ],
     "details": [
       {
@@ -79,7 +79,7 @@
           },
           {
             "name": "翻滚",
-            "score": 1
+            "score": 2
           }
         ]
       },
@@ -722,7 +722,7 @@
     },
     {
       "title": "双手击打",
-      "url": "http://v.qq.com/iframe/player.html?vid=e0316h6r5xx&tiny=0&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=w03165w32jh&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -852,7 +852,7 @@
     },
     {
       "title": "双脚落地",
-      "url": "http://v.qq.com/iframe/player.html?vid=o0316w7ks5o&tiny=0&auto=0",
+      "url": "http://v.qq.com/iframe/player.html?vid=z0316sehg14&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -884,7 +884,7 @@
             },
             {
               "text": "前脚掌先落地",
-              "selected": true
+              "selected": false
             },
             {
               "text": "脚掌落地后膝盖、髋部弯曲缓冲",
@@ -921,18 +921,18 @@
     },
     {
       "title": "静态平衡",
-      "url": "",
+      "url": "http://v.qq.com/iframe/player.html?vid=o0316qbpjgu&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
           "list": [
             {
               "text": "经常失去平衡",
-              "selected": false
+              "selected": true
             },
             {
               "text": "补偿动作较大，如手臂挥舞",
-              "selected": false
+              "selected": true
             },
             {
               "text": "容易低头",
@@ -978,7 +978,7 @@
     },
     {
       "title": "翻滚",
-      "url": "",
+      "url": "http://v.qq.com/iframe/player.html?vid=y0316vamapn&tiny=0&auto=0",
       "comment": [
         {
           "name": "发现期",
@@ -1006,15 +1006,15 @@
             },
             {
               "text": "完成翻滚时身体会打开",
-              "selected": false
+              "selected": true
             },
             {
               "text": "更多的手臂和手的协同",
-              "selected": false
+              "selected": true
             },
             {
               "text": "只能做一次翻滚",
-              "selected": false
+              "selected": true
             }
           ]
         },
@@ -1039,18 +1039,20 @@
     },
     {
       "title": "水平引体向上",
-      "url": "http://v.qq.com/iframe/player.html?vid=a0315dde5pd&tiny=0&auto=0",
-      "comment": []
+      "url": "http://v.qq.com/iframe/player.html?vid=z0316kv324r&tiny=0&auto=0",
+      "comment": [0]
     },
     {
       "title": "俯卧撑",
-      "url": "",
-      "comment": []
+      "url": "http://v.qq.com/iframe/player.html?vid=j0316qaf7ol&tiny=0&auto=0",
+      "comment": [0,
+      "可以做出小幅度的膝式俯卧撑"]
     },
     {
       "title": "30英尺折返跑",
-      "url": "",
-      "comment": []
+      "url": "http://v.qq.com/iframe/player.html?vid=y0316ykb995&tiny=0&auto=0",
+      "comment": ["21.22秒",
+      "体能标准对该年龄段的折返跑速度没有要求,仅做记录"]
     }
   ]
 }
